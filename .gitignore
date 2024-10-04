@@ -1,0 +1,13 @@
+output/
+mimiccxr_vqgan/
+decoded_cxrs/
+.idea/
+ckpt/
+taming/
+unixgen_1/
+wandb/
+transformer_pytorch/__pycache__/
+__pycache__/
+biomed_VLP/
+*.pt
+full_v2/
